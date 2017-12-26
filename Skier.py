@@ -1,3 +1,4 @@
+#chto to
 import  sys, random
 import pygame
 from pygame import sprite
